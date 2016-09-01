@@ -1,7 +1,8 @@
 {
-  "name": "deleteme",
+  "name": "tmp",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
